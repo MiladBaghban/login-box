@@ -1,4 +1,4 @@
-<image align="right" alt="Milad" width = "400" src="https://codemyui.com/wp-content/uploads/2021/05/Login-Modal-With-Floating-Placeholder-And-Animated-Neon-Submit-Button.gif"> 
+<image align="right" alt="Milad" width = "400" src="https://webartdevelopers.com/blog/wp-content/uploads/2021/03/transparent-material-login-form.gif"> 
 <pre>def authenticate(username, password): 
     if username == "admin" and password == "admin": 
         print("Welcome") 
